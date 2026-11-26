@@ -1,0 +1,5 @@
+out/
+out-test/
+out-test-2/
+node_modules/
+transcripts.tar.gz
